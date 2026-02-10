@@ -5,11 +5,14 @@ body {
 .profile-image {
     display: block;
     margin: 40px auto 20px auto;
-    width: 180px;
-    height: 180px;
+    width: 220px;
+    height: 220px;
     border-radius: 50%;
     object-fit: cover;
+    image-rendering: auto;
 }
+
+
 
 footer {
     text-align: center;
