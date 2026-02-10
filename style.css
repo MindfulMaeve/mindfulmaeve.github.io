@@ -35,6 +35,14 @@ footer {
     display: block;
     margin: 0 auto;
 }
+.footer-small {
+    text-align: center;
+    font-size: 12px;
+    color: #444;
+    opacity: 0.8;
+    margin-top: 60px;
+}
+
 
 
 
