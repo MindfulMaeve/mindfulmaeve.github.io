@@ -1,6 +1,7 @@
 body {
     background-color: beige;
 }
+
 .profile-image {
     display: block;
     margin: 40px auto 20px auto;
@@ -18,4 +19,5 @@ footer {
     font-size: 14px;
     opacity: 0.8;
 }
+
 
